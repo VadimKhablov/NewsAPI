@@ -4,5 +4,29 @@
     "id": 1,
     "title": "This is the First Article!",
     "body": "Here you can see the first article in this API 26.01.2022."
+  },
+  {
+    "userId": 1,
+    "id": 2,
+    "title": "My Name is Firat Ak",
+    "body": "Firat will soon working in DataOne as an software designer."
+  },
+  {
+    "userId": 1,
+    "id": 3,
+    "title": "Inception",
+    "body": "Inception is the greatest film in the whole world."
+  },
+  {
+    "userId": 1,
+    "id": 4,
+    "title": "I live in Saarbrücken.",
+    "body": "Saarbrücken the capital of Saarland, its an greate city."
+  },
+  {
+    "userId": 1,
+    "id": 5,
+    "title": "Memo Dünn",
+    "body": "Memo works at Greencells GmbH in Losheim am See."
   }
 ]
