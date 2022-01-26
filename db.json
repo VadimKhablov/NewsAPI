@@ -1,8 +1,8 @@
-{
+[
   {
     "userId": 1,
     "id": 1,
     "title": "This is the First Article!",
     "body": "Here you can see the first article in this API 26.01.2022."
   }
-}
+]
